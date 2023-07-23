@@ -6,7 +6,7 @@ body{
     display:flex;
     gap:15px;
     background-color: #1F2937;
-    padding: 12px;
+    padding: 12px 200px;
 }
 
 .header-logo{
@@ -20,4 +20,25 @@ a{
     text-decoration: none;
     color:#E5E7EB;
     font-size: 18px;
+}
+.main-section{
+    display: flex;
+    background-color: #1F2937;
+    color:white;
+    justify-content: space-between;
+    padding: 80px 200px;
+    gap: 20px;
+}
+.left-main{
+    display:flex;
+    flex-direction: column;
+    gap: 6px;
+    align-items: flex-start;
+}
+.main-image{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkgray;
+    flex: 1;
 }
