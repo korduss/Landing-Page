@@ -108,7 +108,7 @@ a,
 }
 .sign-up-panel{
     background-color: #3882F6;
-    margin:70px 500px 400px 500px;
+    margin:70px 500px 80px 500px;
     flex: 1;
     color: white;
     display:flex;
@@ -128,4 +128,11 @@ a,
    
     height: 40px;
     border-radius: 25px;
+}
+.footer{
+    background-color: #1F2937;
+    display:flex;
+    color:#F9FAF8;
+    padding: 3px;
+    justify-content: center;
 }
