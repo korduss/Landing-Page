@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    font-family: 'Roboto', sans-serif;
 }
 .header{
     display:flex;
@@ -17,6 +18,6 @@ body{
 
 a{
     text-decoration: none;
-    color:#F9FAF8;
+    color:#E5E7EB;
     font-size: 18px;
 }
